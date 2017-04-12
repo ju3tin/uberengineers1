@@ -5,6 +5,8 @@
  * @author Swashata <swashata@intechgrity.com>
  * @uses ezSQL MySQL
  */
+ 
+ /*the base of the file get this done asap*/
 /** edit your configuration */
 $dbuser = 'db_user';
 $dbname = 'db_name';
