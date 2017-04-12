@@ -4,6 +4,8 @@
    <link type="text/css" rel="stylesheet" href="login.css">
   <title>Google Maps Multiple Markers</title>
   <script src="http://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script>
+   
+  <script src="index.js" type="text/javascript"></script>
 </head>
 <body>
 
